@@ -1,0 +1,10 @@
+red : Är när man skapar ett litet testfall med testkod, och kör det för att misslyckas. 
+
+grön : När man skriver en mängd projektkod, som testet ska hantera. Och testerna lyckas. 
+
+Refactor : Att göra ändringar effektivisera koden, men fortfarande se till att den går igenom testerna. 
+
+Skrivit test fallen först, för att se att de misslyckas. 
+Sedan Använda sig av Refactor, för att se till att de lyckas.
+Annars får man göra om tills testerna går igenom. 
+

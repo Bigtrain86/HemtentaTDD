@@ -1,0 +1,15 @@
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\bin\Debug\Hemtenta_Daniel_Bjurström.exe.config
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\bin\Debug\Hemtenta_Daniel_Bjurström.exe
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\bin\Debug\Hemtenta_Daniel_Bjurström.pdb
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\obj\Debug\Hemtenta_Daniel_Bjurström.exe
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\obj\Debug\Hemtenta_Daniel_Bjurström.pdb
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\bin\Debug\Hemtenta_Daniel_Bjurström.exe.config
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\bin\Debug\Hemtenta_Daniel_Bjurström.exe
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\bin\Debug\Hemtenta_Daniel_Bjurström.pdb
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\obj\Debug\Hemtenta_Daniel_Bjurström.exe
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\obj\Debug\Hemtenta_Daniel_Bjurström.pdb
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\bin\Debug\xunit.runner.utility.net35.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\bin\Debug\xunit.abstractions.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\Hemtenta_Daniel_Bjurström\obj\Debug\Hemtenta_Daniel_Bjurström.csprojResolveAssemblyReference.cache

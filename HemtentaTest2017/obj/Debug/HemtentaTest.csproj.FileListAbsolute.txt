@@ -1,0 +1,50 @@
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\HemtentaTest2017.dll
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\HemtentaTest2017.pdb
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Castle.Core.dll
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Hemtenta_Daniel_Bjurström.exe
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Moq.dll
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.abstractions.dll
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.assert.dll
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.core.dll
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Hemtenta_Daniel_Bjurström.pdb
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Castle.Core.xml
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Moq.xml
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.abstractions.xml
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.assert.pdb
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.assert.xml
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.core.pdb
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.core.xml
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\obj\Debug\HemtentaTest2017.dll
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\obj\Debug\HemtentaTest2017.pdb
+C:\Users\Danie\Desktop\Hemtenta Tdd\Hemtenta_Daniel_Bjurström\HemtentaTest2017\obj\Debug\HemtentaTest.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\HemtentaTest2017.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\HemtentaTest2017.pdb
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Castle.Core.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Hemtenta_Daniel_Bjurström.exe
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Moq.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.abstractions.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.assert.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.core.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Hemtenta_Daniel_Bjurström.pdb
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Castle.Core.xml
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Moq.xml
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.assert.pdb
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.assert.xml
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.core.pdb
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.core.xml
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\obj\Debug\HemtentaTest.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\obj\Debug\HemtentaTest2017.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\obj\Debug\HemtentaTest2017.pdb
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.runner.utility.net35.dll
+C:\Users\Studerande\Desktop\Hemtenta_Daniel_Bjurström\HemtentaTest2017\bin\Debug\xunit.runner.reporters.net452.dll
